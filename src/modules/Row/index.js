@@ -2,7 +2,7 @@ import movieTrailer from "movie-trailer";
 import React, { useState, useEffect } from "react";
 import YouTube from "react-youtube";
 import axios from "../../axios";
-import "./Row.scss";
+import "./styles.scss";
 
 const img_url = "https://image.tmdb.org/t/p/original/";
 
